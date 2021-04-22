@@ -7,7 +7,7 @@
 
 ## React
 
-@TODO
+[Тестовое задание React #1 (стажёр)](https://github.com/web-bee-ru/ru-test-assignments/blob/main/react/01-news-list.md)
 
 ## Vue
 

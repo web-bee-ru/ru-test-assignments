@@ -1,5 +1,10 @@
 # ru-test-assignments
+
 (ru) Тестовые задания для Webbee
+
+## Стажировка
+
+[Тестовое задание для стажёра на frontend стажировку #1](https://github.com/web-bee-ru/ru-test-assignments/blob/main/internship/01-base-frontend-stages.md)
 
 ## Ruby on Rails
 

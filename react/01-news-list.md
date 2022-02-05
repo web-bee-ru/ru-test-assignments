@@ -39,9 +39,9 @@
   - State management (Redux/Mobx/самописный через context api/т.п.)
   - React Hooks
 - Использован [официальный API Hacker News](https://github.com/HackerNews/API) или [его улучшенная версия HNPWA API](https://github.com/tastejs/hacker-news-pwas/blob/master/docs/api.md). Вызовы Hacker News API и обработка данных от него производятся напрямую с фронтенда (кроме случая, если вы сделаете опциональное задание про Node.JS).
-- Роутинг выполнен с использованием [React Router v5](https://github.com/ReactTraining/react-router/releases/tag/v5.0.0)
-- Фреймворк UI любой на ваше усмотрение (как пример [React Bootstrap](https://react-bootstrap.github.io/) или [Semantic UI](https://react.semantic-ui.com/)). Можно хоть на голом CSS, главное, чтобы выглядело красиво.
-- Пакетный менеджер `npm`
+- Роутинг выполнен с использованием [React Router v5](https://github.com/ReactTraining/react-router/releases/tag/v5.0.0) (или более новой версией)
+- Фреймворк UI любой на ваше усмотрение (как пример [React Bootstrap](https://react-bootstrap.github.io/) или [Semantic UI](https://react.semantic-ui.com/)). Можно хоть на голом CSS, главное, чтобы выглядело красиво. Будет **большим плюсом** использование `styled-components`/`СSS Modules`/`emotion`/etc.
+- Пакетный менеджер `npm`/`yarn`/`pnpm`
 - Приложение должно запускаться по адресу `localhost:3000` командой `npm start`
 - После запуска приложения все переходы по ссылкам не перезагружают страницу
 - Исходный код решения должен быть выложен с вашего аккаунта на [Github](http://github.com/)

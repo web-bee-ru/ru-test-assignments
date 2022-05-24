@@ -2,7 +2,7 @@
 
 Требуется реализовать сайт из трех страниц с навигацией между ними, выложить его на GitHub Pages.
 
-Figma (нужно авторизоваться, чтобы видеть информацию об отступах и тд): [Ссылка](https://www.figma.com/file/3fOmL0N8oGAsHZYYUbk5FN/web-bee.ru?node-id=981%3A0)
+Figma (нужно авторизоваться, чтобы видеть информацию об отступах и тд): [Ссылка](https://www.figma.com/file/gZwWzeyH4mUkt72XETyg0p/Web-develop-tasks)
 
 Страницы:
 
@@ -10,7 +10,7 @@ Figma (нужно авторизоваться, чтобы видеть инфо
 2) Карта с местом жительства
 3) Таймер, показывающий время нахождения пользователя на сайте
 
-Примерный вид сайта:
+Примерный вид сайта (актуальные макеты в Figma):
 ![Сайт](https://github.com/web-bee-ru/ru-test-assignments/blob/main/files/base-frontend-stages/main.png)
 
 ## Первый уровень

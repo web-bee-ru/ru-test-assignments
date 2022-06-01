@@ -6,6 +6,8 @@
 
 [Тестовое задание для стажёра на frontend стажировку #1](https://github.com/web-bee-ru/ru-test-assignments/blob/main/internship/01-base-frontend-stages.md)
 
+[Тестовое задание для стажёра на frontend стажировку #2 (npm модули)](https://github.com/web-bee-ru/ru-test-assignments/blob/main/internship/02-npm-modules.md)
+
 ## Ruby on Rails
 
 [Тестовое задание Ruby On Rails #1](https://github.com/web-bee-ru/ru-test-assignments/blob/main/ruby-on-rails/01-rest-api-service.md)

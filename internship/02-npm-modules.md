@@ -37,7 +37,7 @@ const LeaveTabCounter = () => {
     <div>
       <span>
         Вы покинули страницу: {count} раз
-        Вкладка активна? {visibility ? 'да' : 'нет'}
+        Вкладка активна? {visible ? 'да' : 'нет'}
       </span>
     </div>
   );

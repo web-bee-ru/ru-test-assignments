@@ -108,5 +108,17 @@ const Example = () => (
 )
 ```
 
+Ожидаемые props этого компонента:
+
+```
+orientation
+minResolution
+maxResolution
+minWidth
+maxWidth
+minHeight
+maxHeight
+```
+
 Дополнительно:
 - Типизировать minResolution, чтобы можно было указать либо строку вида "{число}dppx", либо просто number (то есть чтобы и так и так можно было, а строка только определённого вида)

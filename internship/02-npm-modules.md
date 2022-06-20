@@ -96,7 +96,7 @@ const Example = () => (
         <p>You also have a huge screen</p>
       </MediaQuery>
     </MediaQuery>
-    <MediaQuery minResolution="2dppx"> // @media (-webkit-min-device-pixel-ratio: 2)
+    <MediaQuery minResolution="2dppx"> {/* @media (-webkit-min-device-pixel-ratio: 2) */}
       {/* You can also use a function (render prop) as a child */}
       {(matches) =>
         matches

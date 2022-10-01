@@ -28,9 +28,12 @@ const LeaveTabCounter = () => {
     onVisibilityChange((isVisible) => {
       console.log('first handler', isVisible)
     });
-    onVisibilityChange((isVisible) => {
+
+    const unsubscribeSecondHandler = onVisibilityChange((isVisible) => {
       console.log('second handler', isVisible)
     });
+
+    setTimeout(() => unsubscribeSecondHandler(), 5000); // отписываемся от 'second handler' через 5 секунд
   }, [])
 
   return (

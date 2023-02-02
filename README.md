@@ -8,6 +8,12 @@
 
 [Тестовое задание для стажёра на frontend стажировку #2 (npm модули)](https://github.com/web-bee-ru/ru-test-assignments/blob/main/internship/02-npm-modules.md)
 
+
+[Тестовое задание для стажёра на frontend стажировку #3 (ts)](https://github.com/web-bee-ru/ru-test-assignments/blob/main/internship/03-ts-methods.md)
+
+
+[Тестовое задание для стажёра на frontend стажировку #4 (webpack)](https://github.com/web-bee-ru/ru-test-assignments/blob/main/internship/04-webpack-react-ts.md)
+
 ## Ruby on Rails
 
 [Тестовое задание Ruby On Rails #1](https://github.com/web-bee-ru/ru-test-assignments/blob/main/ruby-on-rails/01-rest-api-service.md)

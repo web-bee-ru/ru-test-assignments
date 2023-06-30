@@ -1,0 +1,25 @@
+@import './bootstrap-grid.css';
+@tailwind base;
+
+@layer components {
+  .btn {
+    @apply block bg-green-600 text-yellow-300 shadow-md rounded px-2 transition hover:bg-green-800;
+  }
+}
+
+html {
+  font-size: 18px;
+}
+
+.bee {
+  @apply shadow-xl rounded-full;
+  width: 250px;
+  height: 250px;
+  background: url('/img/s1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+@tailwind components;
+@tailwind utilities;

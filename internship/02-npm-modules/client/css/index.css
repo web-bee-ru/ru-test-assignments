@@ -1,0 +1,25 @@
+@import './bootstrap-grid.css';
+@tailwind base;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+html {
+  font-size: 18px;
+}
+
+.bee {
+  @apply shadow-xl rounded-full;
+  width: 350px;
+  height: 350px;
+  background: url('/img/s1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+@tailwind components;
+@tailwind utilities;

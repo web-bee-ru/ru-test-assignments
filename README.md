@@ -16,9 +16,9 @@
 
 [Тестовое задание на реализацию поиска по вложенным компонентам](https://github.com/web-bee-ru/ru-test-assignments/blob/main/internship/06-search-in-accordions.md)
 
-## Ruby on Rails
+## JavaScript / TypeSCript
 
-[Тестовое задание Ruby On Rails #1](https://github.com/web-bee-ru/ru-test-assignments/blob/main/ruby-on-rails/01-rest-api-service.md)
+[Задачи на Promise](https://github.com/web-bee-ru/ru-test-assignments/blob/main/typescript/01-promises.md)
 
 ## React
 
@@ -27,3 +27,7 @@
 ## Vue
 
 @ TODO
+
+## Ruby on Rails
+
+[Тестовое задание Ruby On Rails #1](https://github.com/web-bee-ru/ru-test-assignments/blob/main/ruby-on-rails/01-rest-api-service.md)
